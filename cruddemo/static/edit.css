@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+
+table th{
+        font-size: 1.3rem;
+}
+
+table{
+    border: 4px solid brown;
+}
